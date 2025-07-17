@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Amit Rathor - Resume</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f3f4f6;
+      color: #111827;
+    }
+
+    header {
+      background-color: #2563eb;
+      color: white;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: auto;
+      padding: 2rem 1rem;
+    }
+
+    h1, h2 {
+      color: #1f2937;
+    }
+
+    .section {
+      margin-bottom: 2rem;
+    }
+
+    .contact a {
+      display: block;
+      color: #2563eb;
+      text-decoration: none;
+      margin-bottom: 0.5rem;
+    }
+
+    .job {
+      margin-bottom: 1rem;
+    }
+
+    footer {
+      background-color: #e5e7eb;
+      padding: 1rem;
+      text-align: center;
+      font-size: 0.9rem;
+    }
+
+    .badge {
+      display: inline-block;
+      background-color: #2563eb;
+      color: white;
+      padding: 0.2rem 0.6rem;
+      border-radius: 5px;
+      margin-right: 0.5rem;
+      font-size: 0.8rem;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Amit Rathor</h1>
+  <p>Health Advisor | Retail Sales & Pharma Professional | Based in Dubai, UAE</p>
+</header>
+
+<div class="container">
+
+  <div class="section contact">
+    <h2>Contact</h2>
+    <a href="tel:+971525755734">+971-525755734</a>
+    <a href="mailto:amitrathor1996@gmail.com">amitrathor1996@gmail.com</a>
+    <p>Indian | Born: 25/02/1996 | Dubai, UAE</p>
+  </div>
+
+  <div class="section">
+    <h2>Work Experience</h2>
+
+    <div class="job">
+      <strong>Health Advisor</strong> – Aster DM Healthcare (May 2023 – Present, Dubai)<br/>
+      <ul>
+        <li>Sales of non-pharma products, merchandising & customer satisfaction</li>
+        <li>Marketing strategies to boost footfall and revenue</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <strong>Assistant Store Manager</strong> – Life Pharmacy (Mar 2022 – Feb 2023, Dubai)<br/>
+      <ul>
+        <li>Budget planning, customer service, inventory & team management</li>
+        <li>Policy implementation and HR coordination</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <strong>Marketing Manager</strong> – Cadila Healthcare Ltd (Oct 2019 – Jan 2022, Delhi)<br/>
+      <ul>
+        <li>Sales meetings, exhibitions, budgeting, and reporting</li>
+        <li>Product demos and scientific communication</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <strong>Pharmacist Intern</strong> – Baba Saheb Ambedkar Hospital (May – Sep 2015, Delhi)<br/>
+      <ul>
+        <li>Dispensing, counseling, inventory, and compounding support</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>Education</h2>
+    <p><strong>Bachelor of Pharmacy</strong> – CCS University (2015–2019)</p>
+    <p><strong>Diploma in Pharmacy</strong> – DIPSAR, DU (2013–2015)</p>
+  </div>
+
+  <div class="section">
+    <h2>Skills</h2>
+    <span class="badge">Sales Expertise</span>
+    <span class="badge">Customer Service</span>
+    <span class="badge">Inventory Management</span>
+    <span class="badge">Communication</span>
+    <span class="badge">Adaptability</span>
+    <span class="badge">Relationship Building</span>
+  </div>
+
+  <div class="section">
+    <h2>Awards</h2>
+    <ul>
+      <li><strong>Best Performer of the Year</strong> – Cadila (2021)</li>
+      <li><strong>Best Detailer</strong> – Mankind Pharma (2018)</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Languages</h2>
+    <p>English, Hindi</p>
+  </div>
+
+  <div class="section">
+    <h2>Interests</h2>
+    <p>Swimming, Photography</p>
+  </div>
+
+</div>
+
+<footer>
+  &copy; 2025 Amit Rathor — All rights reserved.
+</footer>
+
+</body>
+</html>
